@@ -1,0 +1,6 @@
+[submodule "vendor/cocos2d-iphone"]
+	path = vendor/cocos2d-iphone
+	url = git@github.com:cocos2d/cocos2d-iphone.git
+[submodule "vendor/cocos2d-scrollview-extension"]
+	path = vendor/cocos2d-scrollview-extension
+	url = git://github.com/l-liroki/Cocos2D-Extensions.git
